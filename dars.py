@@ -6,7 +6,6 @@ bosh.sort()
 arr = []
 
 
-
 for i in range(len(bosh)-2):
     if bosh[i]==x:
         son = bosh[i]
